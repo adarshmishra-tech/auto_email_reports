@@ -1,4 +1,4 @@
-git clone https://github.com/yourusername/auto-email-reports.git
+https://github.com/adarshmishra-tech/auto_email_reports.git
  cd auto-email-reports
  pip install -r requirements.txt
  Create a .env file in the root:
